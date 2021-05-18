@@ -1,0 +1,4 @@
+AZ_SUB=""
+AZ_TENANT=""
+AZ_ID=""
+AZ_SECRET=""
